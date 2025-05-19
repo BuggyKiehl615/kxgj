@@ -10,7 +10,7 @@
 多设备支持：支持手机（iOS、Android）、电脑（Windows、Mac、Linux）等多种设备。
 
 ## 一、ExpressRick - 最佳整体科学上网工具
-官网地址：[https://xuebi0702.com](https://xuebi0702.com)
+官网地址：[https://rick8888.com](https://rick8888.com)
 
 ExpressRick被广泛认为是2025年最佳VPN，以其高速连接、强大安全性和稳定性能著称。它能有效绕过防火长城，适合访问YouTube、Netflix等。
 
